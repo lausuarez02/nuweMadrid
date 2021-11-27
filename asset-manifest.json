@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nuweMadrid/static/css/main.dee94728.chunk.css",
-    "main.js": "/nuweMadrid/static/js/main.5bd2a3a9.chunk.js",
-    "main.js.map": "/nuweMadrid/static/js/main.5bd2a3a9.chunk.js.map",
+    "main.js": "/nuweMadrid/static/js/main.d136ae4f.chunk.js",
+    "main.js.map": "/nuweMadrid/static/js/main.d136ae4f.chunk.js.map",
     "runtime-main.js": "/nuweMadrid/static/js/runtime-main.d7f74865.js",
     "runtime-main.js.map": "/nuweMadrid/static/js/runtime-main.d7f74865.js.map",
-    "static/js/2.8b32350b.chunk.js": "/nuweMadrid/static/js/2.8b32350b.chunk.js",
-    "static/js/2.8b32350b.chunk.js.map": "/nuweMadrid/static/js/2.8b32350b.chunk.js.map",
+    "static/js/2.3bc90952.chunk.js": "/nuweMadrid/static/js/2.3bc90952.chunk.js",
+    "static/js/2.3bc90952.chunk.js.map": "/nuweMadrid/static/js/2.3bc90952.chunk.js.map",
     "static/js/3.d272528c.chunk.js": "/nuweMadrid/static/js/3.d272528c.chunk.js",
     "static/js/3.d272528c.chunk.js.map": "/nuweMadrid/static/js/3.d272528c.chunk.js.map",
     "index.html": "/nuweMadrid/index.html",
     "static/css/main.dee94728.chunk.css.map": "/nuweMadrid/static/css/main.dee94728.chunk.css.map",
-    "static/js/2.8b32350b.chunk.js.LICENSE.txt": "/nuweMadrid/static/js/2.8b32350b.chunk.js.LICENSE.txt"
+    "static/js/2.3bc90952.chunk.js.LICENSE.txt": "/nuweMadrid/static/js/2.3bc90952.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7f74865.js",
-    "static/js/2.8b32350b.chunk.js",
+    "static/js/2.3bc90952.chunk.js",
     "static/css/main.dee94728.chunk.css",
-    "static/js/main.5bd2a3a9.chunk.js"
+    "static/js/main.d136ae4f.chunk.js"
   ]
 }
